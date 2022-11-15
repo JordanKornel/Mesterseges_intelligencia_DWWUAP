@@ -1,0 +1,88 @@
+5	19	25	3	9	4	16	25	15	16	
+21	13	7	4	16	1	13	14	20	25	
+25	1	23	15	9	24	8	19	4	11	
+1	1	1	21	18	1	13	22	7	14	
+24	1	17	8	25	15	16	18	8	12	
+8	22	8	25	15	10	1	14	18	21	
+Base: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+New survived BEST generation: [0, 4, 2, 3, 1, 5, 6, 7, 8, 9] time: 243
+New survived medium generation: [0, 4, 8, 3, 1, 5, 6, 7, 2, 9] time: 237
+New survived medium generation: [0, 4, 8, 3, 5, 1, 6, 7, 2, 9] time: 237
+New survived BEST generation: [3, 4, 8, 0, 1, 5, 6, 7, 2, 9] time: 236
+New survived medium generation: [3, 4, 8, 0, 1, 5, 9, 7, 2, 6] time: 223
+New survived medium generation: [3, 8, 4, 0, 1, 5, 9, 7, 2, 6] time: 229
+New survived BEST generation: [3, 4, 8, 6, 1, 5, 0, 9, 7, 2] time: 220
+New survived BEST generation: [3, 0, 8, 6, 1, 5, 4, 9, 7, 2] time: 215
+New survived medium generation: [3, 0, 8, 6, 1, 5, 4, 9, 7, 2] time: 215
+New survived BEST generation: [3, 0, 8, 6, 1, 5, 4, 7, 9, 2] time: 213
+New survived BEST generation: [3, 0, 8, 5, 1, 6, 4, 7, 9, 2] time: 212
+New survived medium generation: [3, 0, 8, 5, 1, 6, 9, 7, 4, 2] time: 226
+New survived BEST generation: [3, 0, 8, 1, 5, 6, 4, 7, 9, 2] time: 212
+New survived medium generation: [3, 0, 8, 5, 1, 6, 4, 7, 9, 2] time: 212
+New survived BEST generation: [3, 0, 1, 5, 8, 6, 4, 7, 9, 2] time: 212
+New survived BEST generation: [3, 0, 8, 5, 6, 1, 4, 7, 9, 2] time: 212
+New survived BEST generation: [3, 0, 8, 1, 5, 6, 4, 7, 9, 2] time: 212
+New survived medium generation: [3, 0, 8, 1, 5, 6, 4, 7, 9, 2] time: 212
+New survived medium generation: [3, 0, 8, 5, 1, 6, 4, 7, 9, 2] time: 212
+New survived medium generation: [3, 0, 8, 5, 1, 6, 4, 7, 9, 2] time: 212
+New survived BEST generation: [3, 0, 8, 5, 1, 6, 4, 7, 9, 2] time: 212
+New survived BEST generation: [3, 0, 8, 5, 6, 1, 4, 7, 9, 2] time: 212
+New survived BEST generation: [3, 0, 8, 5, 1, 6, 4, 9, 7, 2] time: 215
+New survived medium generation: [3, 8, 5, 4, 1, 6, 0, 7, 9, 2] time: 229
+New survived medium generation: [3, 0, 8, 5, 1, 4, 6, 7, 9, 2] time: 212
+New survived medium generation: [5, 0, 8, 3, 1, 6, 4, 7, 9, 2] time: 213
+New survived BEST generation: [3, 0, 8, 5, 1, 6, 4, 7, 9, 2] time: 212
+New survived BEST generation: [3, 0, 8, 5, 1, 6, 4, 7, 9, 2] time: 212
+New survived BEST generation: [3, 5, 0, 1, 8, 6, 4, 7, 9, 2] time: 212
+New survived BEST generation: [3, 0, 5, 8, 1, 6, 4, 7, 9, 2] time: 212
+New survived BEST generation: [3, 0, 8, 5, 1, 6, 4, 7, 9, 2] time: 212
+New survived BEST generation: [3, 0, 8, 5, 1, 6, 4, 7, 9, 2] time: 212
+New survived BEST generation: [3, 0, 8, 5, 1, 6, 4, 7, 9, 2] time: 212
+New survived medium generation: [3, 0, 8, 6, 1, 5, 4, 7, 9, 2] time: 213
+New survived BEST generation: [3, 0, 8, 5, 1, 6, 4, 7, 9, 2] time: 212
+New survived BEST generation: [3, 0, 9, 5, 1, 6, 4, 7, 8, 2] time: 212
+New survived BEST generation: [3, 0, 9, 5, 1, 6, 4, 7, 8, 2] time: 212
+New survived medium generation: [3, 0, 8, 5, 1, 6, 4, 7, 9, 2] time: 212
+New survived medium generation: [3, 0, 8, 5, 1, 6, 4, 7, 9, 2] time: 212
+New survived medium generation: [3, 0, 8, 5, 1, 6, 4, 9, 7, 2] time: 215
+New survived BEST generation: [3, 0, 8, 5, 1, 6, 4, 7, 9, 2] time: 212
+New survived medium generation: [3, 0, 8, 5, 1, 6, 4, 7, 9, 2] time: 212
+New survived BEST generation: [3, 0, 8, 5, 1, 6, 4, 7, 9, 2] time: 212
+New survived BEST generation: [3, 0, 8, 5, 1, 6, 4, 7, 9, 2] time: 212
+New survived medium generation: [3, 0, 8, 5, 1, 6, 4, 7, 9, 2] time: 212
+New survived BEST generation: [3, 0, 8, 5, 1, 6, 4, 7, 9, 2] time: 212
+New survived BEST generation: [3, 0, 8, 5, 1, 6, 4, 7, 9, 2] time: 212
+New survived medium generation: [3, 0, 8, 5, 1, 6, 4, 7, 9, 2] time: 212
+New survived BEST generation: [3, 0, 8, 5, 1, 6, 4, 7, 9, 2] time: 212
+New survived BEST generation: [3, 0, 8, 5, 1, 4, 6, 7, 9, 2] time: 212
+New survived medium generation: [3, 0, 8, 5, 1, 6, 4, 7, 9, 2] time: 212
+New survived BEST generation: [3, 0, 8, 5, 1, 6, 4, 7, 9, 2] time: 212
+New survived medium generation: [3, 0, 8, 5, 1, 6, 4, 7, 9, 2] time: 212
+New survived BEST generation: [3, 0, 6, 5, 1, 8, 4, 7, 9, 2] time: 218
+New survived medium generation: [3, 0, 8, 5, 1, 6, 4, 7, 9, 2] time: 212
+New survived BEST generation: [3, 0, 8, 5, 1, 6, 4, 7, 9, 2] time: 212
+New survived medium generation: [3, 0, 8, 5, 1, 6, 4, 7, 2, 9] time: 220
+New survived BEST generation: [3, 0, 9, 5, 1, 6, 4, 7, 8, 2] time: 212
+New survived BEST generation: [3, 0, 8, 5, 1, 9, 2, 4, 7, 6] time: 211
+New survived BEST generation: [3, 0, 8, 5, 1, 9, 2, 4, 7, 6] time: 211
+New survived medium generation: [3, 0, 8, 5, 1, 9, 2, 4, 7, 6] time: 211
+New survived BEST generation: [3, 0, 8, 5, 1, 9, 2, 4, 7, 6] time: 211
+New survived BEST generation: [3, 0, 8, 9, 1, 5, 2, 4, 7, 6] time: 222
+New survived BEST generation: [3, 0, 8, 5, 1, 4, 2, 9, 7, 6] time: 211
+New survived BEST generation: [3, 0, 8, 5, 1, 9, 2, 4, 7, 6] time: 211
+New survived BEST generation: [3, 0, 8, 5, 1, 9, 2, 4, 7, 6] time: 211
+New survived medium generation: [3, 0, 8, 5, 1, 7, 9, 6, 4, 2] time: 222
+New survived BEST generation: [3, 0, 8, 5, 1, 9, 2, 4, 7, 6] time: 211
+New survived BEST generation: [3, 0, 8, 5, 4, 9, 1, 6, 7, 2] time: 215
+New survived medium generation: [3, 0, 8, 5, 1, 9, 2, 6, 4, 7] time: 224
+New survived BEST generation: [3, 0, 5, 8, 1, 9, 2, 4, 7, 6] time: 211
+New survived medium generation: [3, 0, 8, 5, 1, 9, 2, 4, 7, 6] time: 211
+New survived BEST generation: [3, 0, 8, 5, 1, 9, 2, 4, 7, 6] time: 211
+New survived BEST generation: [3, 0, 8, 1, 5, 9, 2, 4, 7, 6] time: 211
+New survived medium generation: [3, 0, 5, 8, 4, 9, 1, 2, 6, 7] time: 224
+New survived medium generation: [3, 0, 2, 5, 1, 9, 8, 4, 7, 6] time: 223
+New survived BEST generation: [3, 0, 8, 5, 1, 9, 2, 4, 7, 6] time: 211
+New survived BEST generation: [3, 0, 8, 5, 1, 9, 2, 4, 7, 6] time: 211
+New survived medium generation: [3, 4, 8, 5, 1, 9, 2, 0, 7, 6] time: 226
+New survived BEST generation: [3, 0, 1, 5, 8, 9, 2, 4, 7, 6] time: 212
+Best found solution: [3, 0, 8, 5, 1, 9, 2, 4, 7, 6]time: 211

@@ -1,0 +1,6 @@
+5 Data in this order: Machines, Iterations, Jobs, Generations, The seed of the generation
+6
+80
+10
+10
+1
